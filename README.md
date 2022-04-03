@@ -1,2 +1,1 @@
-# DrumKit-WebApp
-A simple drumkit app based on Javascript 30
+# [DrumKit-WebApp](https://ijlalahmad845.github.io/DrumKit-WebApp/)
